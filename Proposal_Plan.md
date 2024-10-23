@@ -24,9 +24,9 @@
    - **Task 4.2**: Present a cohesive narrative linking b-nary expansions, quantum phase spaces, and fractal structures.
    - **Task 4.3**: Prepare and structure the necessary proofs, hypotheses, and findings for submission.
 
-Referencing Index: 
-Adamczewski, B., & Bugeaud, Y. (2007). On the complexity of algebraic numbers I. Expansions in integer bases. Annals of Mathematics. https://annals.math.princeton.edu/wp-content/uploads/annals-v165-n3-p04.pdf 
-Berry, M., Marzoli, I., & Schleich, W. (2001). Wordpress. Quantum carpets, carpets of light. https://michaelberryphysics.wordpress.com/wp-content/uploads/2013/07/berry210.pdf 
-Comez, D. (2016). Decimal expansion representation of real numbers. Pubweb. https://www.ndsu.edu/pubweb/~comez/Decimal%20expansion.pdf 
-Stöckmann, H.-J. (2010). Quantum Chaos: An introduction. Cambridge University Press. 
-L´opez, J., & Stoll, P. (2012). Colgate. THE 2-ADIC, BINARY AND DECIMAL PERIODS OF 1/(3^k) APPROACH FULL COMPLEXITY FOR INCREASING k. http://math.colgate.edu/~integers/m28/m28.pdf 
+# Referencing Index: 
+- Adamczewski, B., & Bugeaud, Y. (2007). On the complexity of algebraic numbers I. Expansions in integer bases. Annals of Mathematics. https://annals.math.princeton.edu/wp-content/uploads/annals-v165-n3-p04.pdf 
+- Berry, M., Marzoli, I., & Schleich, W. (2001). Wordpress. Quantum carpets, carpets of light. https://michaelberryphysics.wordpress.com/wp-content/uploads/2013/07/berry210.pdf 
+- Comez, D. (2016). Decimal expansion representation of real numbers. Pubweb. https://www.ndsu.edu/pubweb/~comez/Decimal%20expansion.pdf 
+- Stöckmann, H.-J. (2010). Quantum Chaos: An introduction. Cambridge University Press. 
+- L´opez, J., & Stoll, P. (2012). Colgate. THE 2-ADIC, BINARY AND DECIMAL PERIODS OF 1/(3^k) APPROACH FULL COMPLEXITY FOR INCREASING k. http://math.colgate.edu/~integers/m28/m28.pdf 
