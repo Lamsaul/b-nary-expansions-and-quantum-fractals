@@ -42,5 +42,3 @@ Referencing Index: (In all formats)
 - Berry, Michael V. "Chaos and the Semiclassical Limit of Quantum Mechanics (Quantum Fractals in Phase Space)." 2001. https://michaelberryphysics.wordpress.com/wp-content/uploads/2013/07/berry329.pdf.
 - Comez, Guillermo. *Decimal Expansions of Numbers*. Accessed October 23, 2024. https://www.ndsu.edu/pubweb/~comez/Decimal%20expansion.pdf.
 - Lindenstrauss, Elon, and Cosmin Meiri. "Ergodic Theory and Equidistribution for Fractal Measures." *Annals of Mathematics* 165, no. 2 (2007): 487–552. https://annals.math.princeton.edu/wp-content/uploads/annals-v165-n2-p04.pdf.
-
-Let me know if you need any modifications!
