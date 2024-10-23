@@ -24,24 +24,9 @@
    - **Task 4.2**: Present a cohesive narrative linking b-nary expansions, quantum phase spaces, and fractal structures.
    - **Task 4.3**: Prepare and structure the necessary proofs, hypotheses, and findings for submission.
 
-Referencing Index: (In all formats)
-### APA:
-- Arnoux, P., & Ito, S. (2008). **Pisot substitutions and Rauzy fractals**. *Integers: The Electronic Journal of Combinatorial Number Theory*, 8(2), M28. Retrieved from https://math.colgate.edu/~integers/m28/m28.pdf
-- Berry, M. V. (2001). **Chaos and the semiclassical limit of quantum mechanics (quantum fractals in phase space)**. *Michael Berry Physics Archive*. Retrieved from https://michaelberryphysics.wordpress.com/wp-content/uploads/2013/07/berry329.pdf
-- Comez, G. (n.d.). **Decimal expansions of numbers**. Retrieved from https://www.ndsu.edu/pubweb/~comez/Decimal%20expansion.pdf
-- Lindenstrauss, E., & Meiri, C. (2007). **Ergodic theory and equidistribution for fractal measures**. *Annals of Mathematics*, 165(2), 487–552. Retrieved from https://annals.math.princeton.edu/wp-content/uploads/annals-v165-n2-p04.pdf
-- Stöckmann, H.-J. (2000). **Quantum chaos: An introduction**. Cambridge University Press. Retrieved from https://sci-books.com/quantum-chaos-an-introduction-0521027152/
-
-### MLA:
-- Arnoux, Pierre, and Shunji Ito. **Pisot Substitutions and Rauzy Fractals.** *Integers: The Electronic Journal of Combinatorial Number Theory*, vol. 8, no. 2, 2008, M28. https://math.colgate.edu/~integers/m28/m28.pdf.
-- Berry, Michael V. **Chaos and the Semiclassical Limit of Quantum Mechanics (Quantum Fractals in Phase Space).** 2001, *Michael Berry Physics Archive*, https://michaelberryphysics.wordpress.com/wp-content/uploads/2013/07/berry329.pdf.
-- Comez, Guillermo. **Decimal Expansions of Numbers.** NDSU, https://www.ndsu.edu/pubweb/~comez/Decimal%20expansion.pdf.
-- Lindenstrauss, Elon, and Cosmin Meiri. **Ergodic Theory and Equidistribution for Fractal Measures.** *Annals of Mathematics*, vol. 165, no. 2, 2007, pp. 487-552. https://annals.math.princeton.edu/wp-content/uploads/annals-v165-n2-p04.pdf.
-- Stöckmann, Hans-Jürgen. **Quantum Chaos: An Introduction.** Cambridge University Press, 2000. https://sci-books.com/quantum-chaos-an-introduction-0521027152/.
-### Chicago:
-- Arnoux, Pierre, and Shunji Ito. "Pisot Substitutions and Rauzy Fractals." *Integers: The Electronic Journal of Combinatorial Number Theory* 8, no. 2 (2008): M28. https://math.colgate.edu/~integers/m28/m28.pdf.
-- Berry, Michael V. "Chaos and the Semiclassical Limit of Quantum Mechanics (Quantum Fractals in Phase Space)." 2001. https://michaelberryphysics.wordpress.com/wp-content/uploads/2013/07/berry329.pdf.
-- Comez, Guillermo. *Decimal Expansions of Numbers*. Accessed October 23, 2024. https://www.ndsu.edu/pubweb/~comez/Decimal%20expansion.pdf.
-- Lindenstrauss, Elon, and Cosmin Meiri. "Ergodic Theory and Equidistribution for Fractal Measures." *Annals of Mathematics* 165, no. 2 (2007): 487–552. https://annals.math.princeton.edu/wp-content/uploads/annals-v165-n2-p04.pdf.
-- Stöckmann, Hans-Jürgen. *Quantum Chaos: An Introduction*. Cambridge University Press, 2000. https://sci-books.com/quantum-chaos-an-introduction-0521027152/.
-
+Referencing Index: 
+Adamczewski, B., & Bugeaud, Y. (2007). On the complexity of algebraic numbers I. Expansions in integer bases. Annals of Mathematics. https://annals.math.princeton.edu/wp-content/uploads/annals-v165-n3-p04.pdf 
+Berry, M., Marzoli, I., & Schleich, W. (2001). Wordpress. Quantum carpets, carpets of light. https://michaelberryphysics.wordpress.com/wp-content/uploads/2013/07/berry210.pdf 
+Comez, D. (2016). Decimal expansion representation of real numbers. Pubweb. https://www.ndsu.edu/pubweb/~comez/Decimal%20expansion.pdf 
+Stöckmann, H.-J. (2010). Quantum Chaos: An introduction. Cambridge University Press. 
+L´opez, J., & Stoll, P. (2012). Colgate. THE 2-ADIC, BINARY AND DECIMAL PERIODS OF 1/(3^k) APPROACH FULL COMPLEXITY FOR INCREASING k. http://math.colgate.edu/~integers/m28/m28.pdf 
